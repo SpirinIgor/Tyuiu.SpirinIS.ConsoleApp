@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SpirinIS.ConsoleApp.L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.SpirinIS.ConsoleApp.Lab0.V0.Test", "Tyuiu.SpirinIS.ConsoleApp.Lab0.V0.Test\Tyuiu.SpirinIS.ConsoleApp.Lab0.V0.Test.csproj", "{5C5F78CC-8DA9-47F1-8836-80254BCE3CA1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lab1", "Lab1", "{23B42428-D9A3-4742-B6FF-FE8643257428}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

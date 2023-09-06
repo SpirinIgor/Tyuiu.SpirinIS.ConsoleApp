@@ -21,6 +21,7 @@ namespace Tyuiu.SpirinIS.ConsoleApp.Lab0.V0
 
             var result = solve.Calc(k, w);
 
+            // Вывод результатов
             Console.WriteLine("Сумма K + W = " + result);
 
             Console.ReadKey();
